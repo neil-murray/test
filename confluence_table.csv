@@ -1,0 +1,7 @@
+"Variable Name","Type","NULL possible (Y/N)","Description ","Controlled vocabulary or requires coding or reference table"
+"VAR_A","int","Y","Blah
+
+blah",
+"VAR_B","varchar(30)","NULL possible (Y/N)","Blah
+Blah
+Blah",
